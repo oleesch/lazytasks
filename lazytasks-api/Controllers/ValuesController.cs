@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace lazylauncher_api.Controllers
+namespace lazytasks_api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/lazylauncher-api/lazylauncher-api.csproj"
+                "${workspaceFolder}/lazytasks-api/lazytasks-api.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -17,7 +17,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/lazylauncher-api/lazylauncher-api.csproj"
+                "${workspaceFolder}/lazytasks-api/lazytasks-api.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -28,7 +28,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/lazylauncher-api/lazylauncher-api.csproj"
+                "${workspaceFolder}/lazytasks-api/lazytasks-api.csproj"
             ],
             "problemMatcher": "$tsc"
         }
